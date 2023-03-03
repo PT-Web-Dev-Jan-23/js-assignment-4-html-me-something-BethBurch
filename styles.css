@@ -1,1 +1,31 @@
-/* Write your CSS here! */
+#main{
+font-size: large;
+font-family:'Times New Roman', Times, serif;
+color: hotpink;
+padding: 70px;
+border: 1px solid #4CAF50;  
+}
+#mainHeading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    
+}
+#article{
+font-size: x-large;
+}
+#testP.funParagraph{
+background-color: green;
+}
+p.weewoo {
+    background-color: yellow;
+    font-size: larger;
+    text-align: center;
+}
+footer {
+    background-color:"white";
+}
+body {
+    margin: 8px;
+    background-color: pink;
+}
+
